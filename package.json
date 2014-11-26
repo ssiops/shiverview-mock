@@ -1,0 +1,16 @@
+{
+  "name": "shiverview-mock",
+  "version": "0.1.0",
+  "description": "Testing utilities of project Shiverview",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ssiops/shiverview-mock.git"
+  },
+  "author": "akasfei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ssiops/shiverview-mock/issues"
+  },
+  "homepage": "https://github.com/ssiops/shiverview-mock"
+}
